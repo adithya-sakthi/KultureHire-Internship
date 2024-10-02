@@ -20,12 +20,14 @@ We as a society could miss out on all the positive contributions Gen Z could bri
 * Stage 8 - Presented the final insights to stakeholders
 
 <h4>KEY INSIGHTS</h4>
+
 * 56% of Gen Z prefer managers who explains what is expected and helps achieve it.
 * Least preferred managers are the ones who set unrealistic goals.
 * 43.4% of Gen Z expects a salary higher than 50,000 in 3 years.
 * 51% of Gen Z prefer Full remote with options to travel when needed.
   
 <h4>RECOMMENDATIONS</h4>
+
 * Invest in Leadership training programs and encourage open and effective communication.
 * Offer performance bonuses,revise salary structures and set clear criteria for salary increments.
 * Prioritize flexible remote work and Consider a hybrid approach for both remote and in-office options.
