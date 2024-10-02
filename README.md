@@ -7,7 +7,7 @@ Generation Z is the demographic cohort succeeding Generation Y, comprising indiv
 There is a situation where Gen Z career aspirations are often overlooked by parents, mentors, teachers and employers.
 
 <h4>IMPACT</h4>
-We as a society could miss out on all the positive contributions Gen Z could bring. Failure to tap into their potential could result in stagnation in various industries.
+We as a society could miss out on all the positive contributions Gen Z could bring. Failure to tap into their potential could result in stagnation in various industries. <br><br>
 
 
 * Stage 1 - Creating Excel Dashboards for Customer Service, Finance, and Orders. 
