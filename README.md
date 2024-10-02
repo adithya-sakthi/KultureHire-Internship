@@ -33,4 +33,4 @@ We as a society could miss out on all the positive contributions Gen Z could bri
 * Prioritize flexible remote work and Consider a hybrid approach for both remote and in-office options.
 
 
-  Dashboards Link: https://www.novypro.com/project/gen-z-career-aspirations-1
+  Dashboards Link: [https://www.novypro.com/project/gen-z-career-aspirations-1](https://project.novypro.com/LD5R1R)
